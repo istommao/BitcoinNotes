@@ -1,0 +1,6 @@
+site_name: Bitcoin
+
+pages:
+- 比特币: index.md
+
+theme: readthedocs
